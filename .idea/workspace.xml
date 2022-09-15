@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eddf30b-9830-4c3f-92e8-4bf36d78ed7c" name="Changes" comment="" />
+    <list default="true" id="2eddf30b-9830-4c3f-92e8-4bf36d78ed7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/core/database/QueryBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/database/QueryBuilder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <workItem from="1663139425246" duration="7549000" />
       <workItem from="1663155647879" duration="5668000" />
       <workItem from="1663224412154" duration="5929000" />
-      <workItem from="1663230372852" duration="6511000" />
+      <workItem from="1663230372852" duration="6812000" />
     </task>
     <servers />
   </component>
