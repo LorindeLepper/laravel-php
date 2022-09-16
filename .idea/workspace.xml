@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eddf30b-9830-4c3f-92e8-4bf36d78ed7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/PagesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/UsersController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/users.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/about-culture.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/add-name.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/PagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Request.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Router.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/bootstrap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about-culture.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/about-culture.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/about.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/contact.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/contact.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/index.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/partials/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/partials/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/partials/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/users.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users.view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +88,8 @@
       <workItem from="1663224412154" duration="5929000" />
       <workItem from="1663230372852" duration="7450000" />
       <workItem from="1663244868769" duration="109000" />
-      <workItem from="1663244979633" duration="4300000" />
+      <workItem from="1663244979633" duration="5731000" />
+      <workItem from="1663311261431" duration="1980000" />
     </task>
     <servers />
   </component>
